@@ -1,3 +1,4 @@
 this is my first line
 i know how to use git
 let's do another text line over here
+4th line however is now
